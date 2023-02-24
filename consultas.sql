@@ -1,0 +1,2 @@
+SELECT * FROM usuarios ORDER BY 1;
+SELECT * FROM productos LIMIT 10;
